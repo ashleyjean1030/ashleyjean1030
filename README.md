@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jean Sebastian (Ashley)
+# Hi, I'm Ashley Jean Sebastian
 
 ### IT Student · PSU San Carlos · UI/UX & WordPress Developer
 
